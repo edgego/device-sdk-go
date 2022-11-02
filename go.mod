@@ -6,13 +6,13 @@ require (
 	github.com/edgexfoundry/go-mod-bootstrap/v2 v2.1.0
 	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.1.0
 	github.com/edgexfoundry/go-mod-messaging/v2 v2.1.0
-	github.com/edgexfoundry/go-mod-registry/v2 v2.1.0
+	github.com/edgexfoundry/go-mod-registry/v2 v2.3.0
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/pelletier/go-toml v1.9.4
 	github.com/prometheus/client_golang v1.11.0
-	github.com/stretchr/testify v1.7.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	github.com/stretchr/testify v1.8.0
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 go 1.16
